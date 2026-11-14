@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Kim%20Mugyeom&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer&descSize=18&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Kim%20Mukyeom&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer&descSize=18&descAlignY=56" width="100%" />
 
 **기획부터 출시까지, 사용자 입장에서 화면을 만드는 프론트엔드 개발자입니다.**
 
