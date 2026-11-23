@@ -29,7 +29,7 @@ Flutter 앱 **칼캘**을 혼자 기획하고 개발해서 App Store에 출시�
 | **형태** | 캡스톤 팀 프로젝트 (FE / BE / AI) · 2026.09 ~ 진행 중 |
 | **역할** | 프론트엔드 |
 | **Stack** | React 18, TypeScript, Vite, Tailwind CSS, TanStack Query, MSW, Recharts |
-| **Links** | [Service](https://evflowkr.app) · [Repository](https://github.com/kkyom/EV-flow) |
+| **Links** | [Service](https://evflowkr.app) · [Repository](https://github.com/2026-Capstone4/ev-flow) |
 
 **서비스**
 - 광진구 급속 충전소 46곳(충전기 116기)의 상태를 5분 간격으로 수집
